@@ -1,0 +1,6 @@
+name = "contact-worker"
+main = "contact-worker.js"
+compatibility_date = "2026-04-28"
+
+[vars]
+PROJECT_NAME = "mattacianel"
