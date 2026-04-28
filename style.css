@@ -14,7 +14,8 @@ body{
     padding:0 1rem;
 }
 h1,h2,h3{
-    color:#111;line-height:1.2;
+    color:#111;
+    line-height:1.2;
 }
 .tagline{
     font-size:1.2rem;
