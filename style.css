@@ -95,3 +95,11 @@ button{
 button:hover{
     background: #005bb5;
 }
+
+a{
+    color: #0066cc;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
